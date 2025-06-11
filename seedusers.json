@@ -1,0 +1,23 @@
+[
+  {
+    "ID": "7fc7cf98-fb79-4e4e-9b87-8f7415c53127",
+    "FULLNAME": "John",
+    "EMAIL": "John2@yahoo.com",
+    "PASSWORDHASH": "123",
+    "ROLE": 1
+  },
+  {
+    "ID": "f9e2f74d-8327-44c3-a676-fc4e3a9ffae2",
+    "FULLNAME": "Jane Smith",
+    "EMAIL": "jane2@yahoo.com",
+    "PASSWORDHASH": "456",
+    "ROLE": 2
+  },
+  {
+    "ID": "9d7164e0-19e1-4f16-9343-1a9d2c1c055a",
+    "FULLNAME": "Mike Brown",
+    "EMAIL": "mike3@gmai.com",
+    "PASSWORDHASH": "A425",
+    "ROLE": 1
+  }
+]

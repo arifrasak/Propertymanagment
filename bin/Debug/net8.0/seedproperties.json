@@ -1,0 +1,30 @@
+[
+  {
+    "ID": "f0a0c92b-7f5e-43a4-9501-bb445ac6ab81",
+    "NAME": "Sunset Villa",
+    "LOCATION": "Los Angeles",
+    "PRICE": 250000.00,
+    "ISAVAILABLE": true
+  },
+  {
+    "ID": "24c771fc-3e5e-4de2-bc6a-e5c880894263",
+    "NAME": "Ocean Breeze Apartment",
+    "LOCATION": "Miami",
+    "PRICE": 180000.00,
+    "ISAVAILABLE": false
+  },
+  {
+    "ID": "5d7b3280-7125-4f40-bcc0-b19ad66e5738",
+    "NAME": "Mountain Retreat",
+    "LOCATION": "Denver",
+    "PRICE": 320000.00,
+    "ISAVAILABLE": true
+  },
+  {
+    "ID": "109e3fcd-f279-4a36-b34a-6224ed264b7c",
+    "NAME": "City Loft",
+    "LOCATION": "New York",
+    "PRICE": 500000.00,
+    "ISAVAILABLE": false
+  }
+]

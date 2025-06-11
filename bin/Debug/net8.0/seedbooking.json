@@ -1,0 +1,30 @@
+[
+  {
+    "ID": "e8c4c038-04e9-4f1b-8f97-07f68b74e5bb",
+    "USERID": "7fc7cf98-fb79-4e4e-9b87-8f7415c53127",
+    "PROPERTYID": 1,
+    "BOOKINGDATE": "2025-06-01T10:00:00",
+    "STATUS": 0
+  },
+  {
+    "ID": "a4eb2283-f1c1-4f1c-a003-b765f91a77f4",
+    "USERID": "f9e2f74d-8327-44c3-a676-fc4e3a9ffae2",
+    "PROPERTYID": 2,
+    "BOOKINGDATE": "2025-06-02T11:00:00",
+    "STATUS": 1
+  },
+  {
+    "ID": "45a8ae32-d47c-408c-950c-064f7d91126b",
+    "USERID": "9d7164e0-19e1-4f16-9343-1a9d2c1c055a",
+    "PROPERTYID": 3,
+    "BOOKINGDATE": "2025-06-03T12:00:00",
+    "STATUS": 2
+  },
+  {
+    "ID": "5f989dd7-712b-4a9f-891c-4a4476f2fa8d",
+    "USERID": "7fc7cf98-fb79-4e4e-9b87-8f7415c53127",
+    "PROPERTYID": 4,
+    "BOOKINGDATE": "2025-06-04T09:30:00",
+    "STATUS": 1
+  }
+]
